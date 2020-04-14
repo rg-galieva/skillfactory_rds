@@ -29,7 +29,7 @@ def game_core_v2(number):
 
 # FINAL VERSION: Binary search
 def game_core(randomNumber, predictionList = range(1, 101)):
-    counter = 1
+    counter = 0
     first = predictionList[0]
     last = predictionList[-1]
     
