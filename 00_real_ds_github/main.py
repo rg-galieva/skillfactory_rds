@@ -64,4 +64,4 @@ def score_game(game_core):
 # GAME TEST
 score_game(game_core_v1) # => 101
 score_game(game_core_v2) # => 33
-score_game(game_core) # => 6
+score_game(game_core) # => 5
